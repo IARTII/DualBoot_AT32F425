@@ -17,7 +17,7 @@
 		NVIC_SystemReset();
 	}
 	void write_boot_flag(uint32_t value) {
-    		flash_unlock();
+			flash_unlock();
     		flash_sector_erase(BOOT_FLAG_ADDRESS);
     		while(flash_flag_get(FLASH_ODF_FLAG) == RESET);
     		flash_flag_clear(FLASH_ODF_FLAG);
@@ -25,7 +25,7 @@
     		flash_lock();
 	}
 ================================================================
-3. Считываем переменную, и:
+4. Считываем переменную, и:
 // 1. Отключаем все прерывания
 __disable_irq();
 
