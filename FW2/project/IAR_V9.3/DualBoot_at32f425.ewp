@@ -348,6 +348,8 @@
                     <state>$PROJ_DIR$\..\..\libraries\cmsis\cm4\core_support</state>
                     <state>$PROJ_DIR$\..\..\libraries\cmsis\cm4\device_support</state>
                     <state>$PROJ_DIR$\..\inc</state>
+                    <state>$PROJ_DIR$\..\..\librarie\middlewares\usb_drivers\inc</state>
+                    <state>$PROJ_DIR$\..\..\librarie\middlewares\usbd_class\winusb</state>
                 </option>
                 <option>
                     <name>CCStdIncCheck</name>
@@ -667,7 +669,7 @@
             <data>
                 <extensions></extensions>
                 <cmdline></cmdline>
-                <hasPrio>208</hasPrio>
+                <hasPrio>1</hasPrio>
                 <buildSequence>inputOutputBased</buildSequence>
             </data>
         </settings>

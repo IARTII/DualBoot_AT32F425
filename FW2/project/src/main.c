@@ -16,8 +16,9 @@ int main(void)
     while(1)
     {
       gpio_bits_write(GPIOC, GPIO_PINS_5, 0);
-      //wk_delay_ms(1000);
-      //gpio_bits_write(GPIOC, GPIO_PINS_5, 1);
+      wk_delay_ms(1000);
+      gpio_bits_write(GPIOC, GPIO_PINS_5, 1);
+      wk_delay_ms(1000);
     }
 }
 
@@ -31,4 +32,6 @@ void LED_Init(void) {
     gpio_init_struct.gpio_pins = GPIO_PINS_5;
     gpio_init_struct.gpio_pull = GPIO_PULL_NONE;
     gpio_init(GPIOC, &gpio_init_struct);
+    
+
 }

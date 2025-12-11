@@ -19,6 +19,10 @@ D:\Махлаев\Проекты\DualBoot_at32f425\FW2\project\IAR_V9.3\..\..\li
 -I
 D:\Махлаев\Проекты\DualBoot_at32f425\FW2\project\IAR_V9.3\..\inc
 -I
+D:\Махлаев\Проекты\DualBoot_at32f425\FW2\project\IAR_V9.3\..\..\librarie\middlewares\usb_drivers\inc
+-I
+D:\Махлаев\Проекты\DualBoot_at32f425\FW2\project\IAR_V9.3\..\..\librarie\middlewares\usbd_class\winusb
+-I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c\aarch32
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc
@@ -32,6 +36,10 @@ D:\Махлаев\Проекты\DualBoot_at32f425\FW2\libraries\cmsis\cm4\core_
 D:\Махлаев\Проекты\DualBoot_at32f425\FW2\libraries\cmsis\cm4\device_support
 -I
 D:\Махлаев\Проекты\DualBoot_at32f425\FW2\project\inc
+-I
+D:\Махлаев\Проекты\DualBoot_at32f425\FW2\librarie\middlewares\usb_drivers\inc
+-I
+D:\Махлаев\Проекты\DualBoot_at32f425\FW2\librarie\middlewares\usbd_class\winusb
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

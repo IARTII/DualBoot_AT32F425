@@ -1435,31 +1435,10 @@
     <group>
         <name>firmware</name>
         <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_acc.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_adc.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_can.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_crc.c</name>
-        </file>
-        <file>
             <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_crm.c</name>
         </file>
         <file>
             <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_debug.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_dma.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_ertc.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_exint.c</name>
         </file>
         <file>
             <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_flash.c</name>
@@ -1468,34 +1447,10 @@
             <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_gpio.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_i2c.c</name>
-        </file>
-        <file>
             <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_misc.c</name>
         </file>
         <file>
             <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_pwc.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_scfg.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_spi.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_tmr.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_usart.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_usb.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_wdt.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_wwdt.c</name>
         </file>
     </group>
     <group>
@@ -1508,6 +1463,12 @@
         </file>
         <file>
             <name>$PROJ_DIR$\..\src\main.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\wk_gpio.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\wk_system.c</name>
         </file>
     </group>
 </project>
