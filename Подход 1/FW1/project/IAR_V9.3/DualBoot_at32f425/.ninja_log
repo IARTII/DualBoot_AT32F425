@@ -1,0 +1,99 @@
+# ninja log v5
+516	670	7866411935445473	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/firmware/at32f425_misc.o	3acfe96a43dee794
+35	391	7866411932929546	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/firmware/at32f425_crm.o	bcb26db6cba1e8a
+1	31	7866411929448621	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/cmsis/startup_at32f425.o	bb2f0e2720a34aa6
+11	255	7866411931583107	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/cmsis/system_at32f425.o	3d20249413598850
+264	419	7866411933078868	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/firmware/at32f425_gpio.o	21281707f50f15b0
+646	778	7866411936849441	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/wk_system.o	2bf2fcaaed6c5486
+9	335	7869797837328993	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+399	505	7866411934116070	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/firmware/at32f425_debug.o	e33e211cc47c1ce7
+427	637	7866411935405860	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/firmware/at32f425_flash.o	3358c2eec045fcbc
+905	1030	7866411939362973	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/at32f425_wk_config.o	c4c00f1daf99b038
+678	805	7866411936939208	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/at32f425_int.o	54b7ec6d27baca92
+938	1062	7866411939671867	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/firmware/at32f425_pwc.o	e4d34a8bae1e820a
+787	897	7866411938036247	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/wk_gpio.o	921ec0671b148fee
+343	436	7869797838381536	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+453	484	7869797838934536	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	153	7869799382935290	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+160	247	7869799383912665	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+267	291	7869799384422913	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	260	7869814893059479	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+269	360	7869814894099740	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+376	406	7869814894631635	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+7	182	7869815797789624	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+192	273	7869815798727164	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+295	318	7869815799242870	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	184	7869816877259718	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+193	276	7869816878191840	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+299	323	7869816878728036	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	225	7869819020887519	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+234	316	7869819021828517	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+335	359	7869819022324121	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	342	7869822292334841	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+351	435	7869822293314658	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+460	485	7869822293876388	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+5	197	7869823590595608	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+207	289	7869823591547807	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+306	330	7869823592016274	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	256	7869825734515665	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+262	343	7869825735436565	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+360	385	7869825735910098	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	141	7869825827984104	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+148	230	7869825828890496	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+245	267	7869825829328039	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	188	7869828281287834	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+196	280	7869828282220707	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+298	322	7869828282701944	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	234	7869829764396348	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+243	325	7869829765341698	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+344	368	7869829765835296	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	247	7869833918059824	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+255	341	7869833919048853	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+358	384	7869833919534738	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	134	7869835687460772	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+141	223	7869835688378311	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+238	261	7869835688822763	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	280	7869837373330181	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+288	371	7869837374280811	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+391	416	7869837374798719	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	249	7869840421815071	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+259	345	7869840422813027	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+362	386	7869840423300547	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	135	7869840523493108	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+142	223	7869840524396741	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+239	264	7869840524856104	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	131	7869841549857521	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+139	221	7869841550764237	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+244	267	7869841551293487	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	378	7870464412077492	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+386	652	7870464414846562	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+674	711	7870464415505910	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+8	342	7870503984290338	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+351	1526	7870503996176065	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+1549	1628	7870503997271133	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+2	286	7870544516335744	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	f25b2a1faea65b81
+294	379	7870544517315050	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	f262b4d665e44ed6
+396	430	7870544517882889	D:/Махлаев/Проекты/DualBoot_at32f425/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	dcf8d49694634dc1
+1	249	7871349923815622	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/cmsis/system_at32f425.o	79296f5a918cbc5f
+258	283	7871349924254446	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/cmsis/startup_at32f425.o	92e63c0384cc3b4d
+10	384	7871349925152046	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/firmware/at32f425_crm.o	e0cf99882c1bd2e1
+290	484	7871349926169332	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/firmware/at32f425_flash.o	f5babe7569f93b07
+395	564	7871349926997110	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/firmware/at32f425_gpio.o	dd81cb3e488dc17f
+493	656	7871349927918702	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/firmware/at32f425_misc.o	972101e298c8020b
+573	715	7871349928507130	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/firmware/at32f425_pwc.o	ba6235c64f23d99d
+667	791	7871349929265110	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/firmware/at32f425_debug.o	e32c55f7809aa89c
+726	841	7871349929774019	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/at32f425_int.o	7e9af1f3fc06eba1
+800	930	7871349930661653	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	85d08241f8fdb3f6
+850	978	7871349931130396	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/wk_system.o	af3dce85a55c7b72
+939	1064	7871349931997795	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/wk_gpio.o	30026568bf8e467f
+986	1121	7871349932563894	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/at32f425_wk_config.o	3b4656e0bc850849
+1131	1248	7871349933851011	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	13faa7eb02cbf09f
+1267	1289	7871349934329524	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	2c2ad08bfd0be40f
+6	205	7871350063002734	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	85d08241f8fdb3f6
+214	297	7871350063932062	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	13faa7eb02cbf09f
+319	343	7871350064449834	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	2c2ad08bfd0be40f
+2	179	7871352082953574	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Obj/user/main.o	85d08241f8fdb3f6
+188	269	7871352083871959	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	13faa7eb02cbf09f
+287	310	7871352084340672	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	2c2ad08bfd0be40f
+4	130	7871352929294460	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.out	13faa7eb02cbf09f
+145	168	7871352929737654	D:/Махлаев/Проекты/DualBoot_AT32F425/Подход 1/FW1/project/IAR_V9.3/DualBoot_at32f425/Exe/DualBoot_at32f425.bin	2c2ad08bfd0be40f

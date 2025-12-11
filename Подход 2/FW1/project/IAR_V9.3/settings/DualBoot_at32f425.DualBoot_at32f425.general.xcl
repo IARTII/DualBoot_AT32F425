@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\bin\armJET.dll" 
+
+"D:\Махлаев\Проекты\DualBoot_at32f425\FW1\project\IAR_V9.3\DualBoot_at32f425\Exe\DualBoot_at32f425.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm/config/debugger/ArteryTek/AT32F425xx.dmac" 
+
+--flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm/config/flashloader/ArteryTek/AT32F425/AT32F425R8T7-7/FlashAT32F425R8T7-7.board" 
+
+
+
+

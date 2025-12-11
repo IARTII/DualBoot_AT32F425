@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>3086787509</fileChecksum>
+    <configuration>
+        <name>DualBoot_at32f425</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\src\at32f425_wk_config.c</file>
+            <file>$PROJ_DIR$\..\src\main.c</file>
+            <file>$PROJ_DIR$\..\src\wk_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_crm.c</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_debug.c</file>
+            <file>$PROJ_DIR$\startup_at32f425.s</file>
+            <file>$PROJ_DIR$\..\..\libraries\cmsis\cm4\device_support\system_at32f425.c</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_flash.c</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_misc.c</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_pwc.c</file>
+            <file>$PROJ_DIR$\..\..\libraries\cmsis\cm4\device_support\at32f425.h</file>
+            <file>$PROJ_DIR$\..\src\at32f425_int.c</file>
+            <file>$PROJ_DIR$\AT32F425x8.icf</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+            <file>$PROJ_DIR$\..\inc\at32f425_conf.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\user\at32f425_wk_config.o</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\user\at32f425_int.o</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\inc\at32f425_def.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+            <file>$PROJ_DIR$\..\inc\at32f425_wk_config.h</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\inc\at32f425_debug.h</file>
+            <file>$PROJ_DIR$\..\..\libraries\cmsis\cm4\core_support\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\inc\at32f425_flash.h</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\inc\at32f425_crm.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\user\wk_gpio.o</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\cmsis\startup_at32f425.o</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\firmware\at32f425_pwc.o</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\firmware\at32f425_misc.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\user\main.o</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\firmware\at32f425_gpio.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\firmware\at32f425_crm.o</file>
+            <file>$PROJ_DIR$\..\inc\wk_system.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\..\src\wk_system.c</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\user\wk_system.o</file>
+            <file>$PROJ_DIR$\..\inc\at32f425_int.h</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\firmware\at32f425_flash.o</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Exe\DualBoot_at32f425.out</file>
+            <file>$PROJ_DIR$\..\..\libraries\cmsis\cm4\core_support\core_cm4.h</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Exe\DualBoot_at32f425.bin</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\firmware\at32f425_debug.o</file>
+            <file>$PROJ_DIR$\..\..\libraries\cmsis\cm4\core_support\cmsis_version.h</file>
+            <file>$PROJ_DIR$\..\..\libraries\cmsis\cm4\core_support\cmsis_iccarm.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\inc\at32f425_misc.h</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\inc\at32f425_gpio.h</file>
+            <file>$PROJ_DIR$\..\..\libraries\drivers\inc\at32f425_pwc.h</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\Obj\cmsis\system_at32f425.o</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\..\inc\wk_gpio.h</file>
+            <file>$PROJ_DIR$\..\..\libraries\cmsis\cm4\core_support\mpu_armv7.h</file>
+            <file>$PROJ_DIR$\DualBoot_at32f425\List\DualBoot_at32f425.map</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\..\..\libraries\cmsis\cm4\device_support\system_at32f425.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\src\at32f425_wk_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 17</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 21 16 39 33 26 28 50 36 11 45 27 48 23 49 61 57 60 19 15 25 52 53 22 24 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 34</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 21 16 39 33 26 28 50 36 11 45 27 48 23 49 61 57 60 19 15 25 52 53 22 24 51 56 38</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\wk_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 29</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 56 21 16 39 33 26 28 50 36 11 45 27 48 23 49 61 57 60 19 15 25 52 53 22 24 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 44 58</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 35</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 15 25 11 45 27 39 33 26 28 50 48 23 49 61 57 60 19 52 53 22 24 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_crm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 37</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 15 25 11 45 27 39 33 26 28 50 48 23 49 61 57 60 19 52 53 22 24 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_debug.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 15 25 11 45 27 39 33 26 28 50 48 23 49 61 57 60 19 52 53 22 24 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\startup_at32f425.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 30</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\libraries\cmsis\cm4\device_support\system_at32f425.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 11 45 27 39 33 26 28 50 48 23 49 61 57 60 19 15 25 52 53 22 24 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 15 25 11 45 27 39 33 26 28 50 48 23 49 61 57 60 19 52 53 22 24 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 32</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 15 25 11 45 27 39 33 26 28 50 48 23 49 61 57 60 19 52 53 22 24 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\libraries\drivers\src\at32f425_pwc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 31</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 15 25 11 45 27 39 33 26 28 50 48 23 49 61 57 60 19 52 53 22 24 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\at32f425_int.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 18</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 42 11 45 27 39 33 26 28 50 48 23 49 61 57 60 19 15 25 52 53 22 24 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\src\wk_system.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 11 45 27 39 33 26 28 50 48 23 49 61 57 60 19 15 25 52 53 22 24 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\DualBoot_at32f425\Exe\DualBoot_at32f425.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 46</file>
+                </tool>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 13 37 47 43 35 18 32 31 17 34 30 54 29 41 55 59 14 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\DualBoot_at32f425\Exe\DualBoot_at32f425.bin</name>
+            <inputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 44</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\DualBoot_at32f425\Exe\DualBoot_at32f425.out</name>
+            <tool>OBJCOPY</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
