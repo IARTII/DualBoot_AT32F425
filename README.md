@@ -1,13 +1,16 @@
 # DualBoot_AT32F425
 
 # Предисловие
-Перед началом я накидал пару подходов к дуалбуту, далее описание пойдет по реализиции 2-го подхода, но в репозитории будет лежать и 1-й подход.
+Перед началом я накидал пару подходов к дуалбуту, далее описание пойдет по реализиции 2-го подхода, но в репозитории будет лежать и 1-й подход. <br> <br>
+Вот чтобы было нагляднее: <br>
 
-![Image alt](https://github.com/IARTII/DualBoot_AT32F425/raw/main/Pictures/Подхд1.png)<br>
-Подход 1 - <br>
+<p align="center">
+<img src=https://github.com/IARTII/DualBoot_AT32F425/raw/main/Pictures/Подхд1.png><br>
+Подход 1 - Bootloader как загрузчик разных прошивок<br>
 <br>
-![Image alt](https://github.com/IARTII/DualBoot_AT32F425/raw/main/Pictures/Подход2.png)<br>
-Подход 2 - <br>
+<img src=https://github.com/IARTII/DualBoot_AT32F425/raw/main/Pictures/Подход2.png><br>
+Подход 2 - Bootloader как часть первой прошивки<br>
+</p>
 
 # 1. Начало
 В начале надо 2 проекта, пишим логику и т.п. <br>
